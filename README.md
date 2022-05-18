@@ -8,6 +8,8 @@ This bot can be invited to your discord server with this [link](https://discord.
 
 I have not created many issues or versions as my Git knowledge was not very good. Only used it as a backup system.
 
+This is a mirror repository of my main Cod Bot repository as the main repository contains personal information which would interrupt the bots availability if compromosied.
+
 ## Commands
 
 - !cod.help
